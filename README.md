@@ -4,9 +4,9 @@
 
 <p align="left">Aspiring Data Scientist and Software Engineer.</p>
 
-- 🔭 I’m currently working on an [AI Chatbot](https://github.com/TheAdaptoid/Project-Altron)
-- 🌱 I’m currently learning docker and typescript
-- 🤔 I’m looking for help with frontend design and development
+- 🔭 I’m currently working on a [Neural Network](https://github.com/TheAdaptoid/Fire-Watch/tree/cruise-control)
+- 🌱 I’m currently learning PyTorch
+- 🤔 I’m looking for help with optimizing a cost function for reinforcement learning
 
 ###
 
