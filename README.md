@@ -4,7 +4,7 @@
 
 <p align="left">Aspiring Data Scientist and Software Engineer.</p>
 
-- 🔭 I’m currently working on a [Neural Network](https://github.com/TheAdaptoid/Fire-Watch/tree/main)
+- 🔭 I’m currently working on a [Neural Network](https://github.com/TheAdaptoid/Autonomous-Flight-Control/tree/main)
 - 🌱 I’m currently learning PyTorch
 - 🤔 I’m looking for help with optimizing a cost function for reinforcement learning
 
