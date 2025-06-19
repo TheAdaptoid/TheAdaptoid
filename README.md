@@ -4,9 +4,9 @@
 
 <p align="left">Aspiring Data Scientist and Software Engineer.</p>
 
-- 🔭 I’m currently working on a [Neural Network](https://github.com/TheAdaptoid/Autonomous-Flight-Control/tree/main)
-- 🌱 I’m currently learning PyTorch
-- 🤔 I’m looking for help with optimizing a cost function for reinforcement learning
+- 🔭 I’m currently working on a [AI Chat App](https://github.com/TheAdaptoid/Altron)
+- 🌱 I’m currently learning TypeScript and C++
+- 🤔 I’m looking for help with learning C++ syntax and best practices
 
 ###
 
