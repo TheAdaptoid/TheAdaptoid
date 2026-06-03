@@ -2,11 +2,9 @@
 
 ###
 
-<p align="left">Aspiring Data Scientist and Software Engineer.</p>
+<p align="left">Aspiring Data Scientist and AI Engineer.</p>
 
-- 🔭 I’m currently working on a [AI Chat App](https://github.com/TheAdaptoid/Altron)
-- 🌱 I’m currently learning TypeScript and C++
-- 🤔 I’m looking for help with learning C++ syntax and best practices
+Currently working on an [AI Chat App](https://github.com/TheAdaptoid/yet-another-personal-assistant)
 
 ###
 
